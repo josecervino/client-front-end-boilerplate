@@ -1,4 +1,4 @@
-# crclient
+# Client-Side Front-End Boilerplate
 
 ## Getting Started
 
@@ -21,3 +21,4 @@
 1. Prettier
 1. Husky
 1. Lodash
+1. NPM
