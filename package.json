@@ -1,17 +1,17 @@
 {
-	"name": "crclient",
+	"name": "boilerplate",
 	"version": "0.0.1",
 	"description": "",
 	"main": "index.js",
-	"homepage": "https://github.com/codingrodeo/crclient#readme",
-	"author": "Itamar Gal, Joe Cervino",
+	"homepage": "",
+	"author": "Joe Cervino",
 	"license": "ISC",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/codingrodeo/crclient.git"
+		"url": "git+https://github.com/joecervino/client-front-end-boilerplate.git"
 	},
 	"bugs": {
-		"url": "https://github.com/codingrodeo/crclient/issues"
+		"url": "https://github.com/joecervino/client-front-end-boilerplate/issues"
 	},
 	"scripts": {
 		"start": "cross-env NODE_ENV=development webpack-dev-server --open",
