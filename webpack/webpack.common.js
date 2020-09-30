@@ -64,6 +64,7 @@ module.exports = {
         extensions: ['*', '.js', '.jsx', '.css', '.scss'],
         alias: {
             'react-dom': '@hot-loader/react-dom',
+            'ui-components': commonPaths.sharedComponents,
         },
     },
     plugins: [

@@ -1,10 +1,8 @@
 import React from 'react'
-// import {
-//     Typography,
-// } from '@material-ui/core'
+import ExampleComponent from './components/ExampleComponent'
 
 const Home = () => {
-    return <h3>Home!</h3>
+    return <ExampleComponent text={'Hello World!'} />
 }
 
 export default Home
